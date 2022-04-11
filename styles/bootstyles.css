@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-image: url(../images/white.jpeg)
+    /*Photo by <a href="https://unsplash.com/@hngstrm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Henry & Co.</a> on <a href="https://unsplash.com/s/photos/white-textured-background?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*/
+}
+
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+
+.listheading {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.justify {
+    text-align: start;
+}
+
+
+body {
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.common {
+    border: solid 3px black;
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 40px;
+    z-index: 2;
+}
+
+
+.mainmenu {
+    top: 114px;
+    bottom: 64px;
+    left: 125px;
+    right: 114px;
+    padding-top: 120px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.mainbody {
+    bottom: 10px;
+    height: 30px;
+    left: 5px;
+    right: 5px;
+    font-size: 13px;
+    text-align: center;
+    position: relative;
+}
+
+
+.subheader {
+    float: right;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.q1 {
+    padding-top: 60px;
+    padding-bottom: 25px;
+}
+
+.q2 {
+    padding-top: 5px;
+    padding-bottom: 25px;
+}

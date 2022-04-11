@@ -1,0 +1,26 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.mysubheadings {
+    font-style: italic;
+    text-align: center;
+    font-weight: 200;
+}
+
+.myul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.myresume {
+    text-align: center;
+}
+
+.myheading {
+    text-align: left;
+    padding-left: 40px;
+}
